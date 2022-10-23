@@ -107,6 +107,18 @@ class _ListAndMapState extends State<ListAndMap> {
       'name': 'Shan',
       'universtiy': 'Notore dam College',
     },
+    {
+      'id': '117',
+      'roll': '131-35-411',
+      'name': 'Kawser',
+      'universtiy': 'Mojib Degree College',
+    },
+    {
+      'id': '118',
+      'roll': '131-35-412',
+      'name': 'Munna',
+      'universtiy': 'Daffodil College, Dhaka',
+    },
   ];
 
   // var personInfo = {
